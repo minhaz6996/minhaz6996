@@ -25,7 +25,7 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 **Focus:** Hospital-level operational reporting across **OPD, refraction, and surgery-related KPIs**, with hospital/month filtering, comparison charts, and a summary matrix.  
 **Tools:** Power BI, report modeling, KPI design, filters, and visual reporting.  
-**[Explore the project →](projects/meh-executive-overview/README.md)**
+****[Explore the project →](https://github.com/minhaz6996/meh-executive-overview)**
 
 ### 📊 Sales Performance Overview — Business Analytics
 
@@ -33,7 +33,7 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 **Focus:** Sales, profit, costs, units sold, and profit-margin analysis using breakdowns by **country, product, segment, and time**.  
 **Tools:** Power BI, KPI reporting, slicers, bar/line/donut visualizations.  
-**[Explore the project →](projects/sales-performance-overview/README.md)**
+****[Explore the project →](https://github.com/minhaz6996/sales-performance-overview)**
 
 > **Portfolio note:** The visuals above are illustrative case-study graphics, **not direct screenshots of the PBIX reports**. Project descriptions were prepared by inspecting the report definitions. No confidential data or actual KPI values have been published here.
 
