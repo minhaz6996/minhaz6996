@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-label="SALES PERFORMANCE: illustrated overview card, not a report screenshot">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#2b4365" stroke-opacity=".23" stroke-width="1"/></pattern><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081424"/><stop offset="1" stop-color="#142744"/></linearGradient></defs>
+<rect x="0" y="0" width="1200" height="510" rx="22" fill="url(#bg)"/>
+<rect x="0" y="0" width="1200" height="510" rx="22" fill="url(#grid)"/>
+<rect x="37" y="48" width="5" height="25" rx="2" fill="#FF8275"/>
+<text x="54" y="68" fill="#FF9789" font-size="16" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">POWER BI  /  BUSINESS INTELLIGENCE</text>
+<text x="45" y="142" fill="#e7efff" font-size="39" font-weight="800" font-family="Arial, Helvetica, sans-serif">SALES PERFORMANCE</text>
+<text x="47" y="180" fill="#B3C5E0" font-size="23" font-weight="500" font-family="Arial, Helvetica, sans-serif">Commercial performance analysis</text>
+<text x="46" y="222" fill="#93A9C8" font-size="18" font-weight="500" font-family="Arial, Helvetica, sans-serif">Report structure reviewed from the supplied PBIX file</text>
+<rect x="48" y="260" width="495" height="181" rx="14" fill="#122440" stroke="#294366" stroke-width="1.5"/>
+<text x="69" y="293" fill="#8CA6CF" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">REPORT FOCUS</text>
+<rect x="70" y="304" width="9" height="9" rx="3" fill="#FF8275"/>
+<text x="92" y="313" fill="#F3F7FF" font-size="20" font-weight="600" font-family="Arial, Helvetica, sans-serif">Sales &amp; Profit</text>
+<rect x="70" y="340" width="9" height="9" rx="3" fill="#FF8275"/>
+<text x="92" y="349" fill="#F3F7FF" font-size="20" font-weight="600" font-family="Arial, Helvetica, sans-serif">Country &amp; Product</text>
+<rect x="70" y="376" width="9" height="9" rx="3" fill="#FF8275"/>
+<text x="92" y="385" fill="#F3F7FF" font-size="20" font-weight="600" font-family="Arial, Helvetica, sans-serif">Time Trends</text>
+<rect x="586" y="70" width="562" height="370" rx="18" fill="#101D35" stroke="#304666" stroke-width="1.5"/>
+<text x="613" y="104" fill="#B1C5E9" font-size="15" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="1">VISUAL LAYOUT  /  SCHEMATIC</text>
+<rect x="614" y="127" width="153" height="78" rx="10" fill="#1A3154" stroke="#33577E" stroke-width="1"/>
+<text x="627" y="154" fill="#C6D8F6" font-size="15" font-weight="600" font-family="Arial, Helvetica, sans-serif">Sales</text>
+<rect x="627" y="167" width="77" height="7" rx="3" fill="#5279B9"/>
+<rect x="789" y="127" width="153" height="78" rx="10" fill="#1A3154" stroke="#33577E" stroke-width="1"/>
+<text x="802" y="154" fill="#C6D8F6" font-size="15" font-weight="600" font-family="Arial, Helvetica, sans-serif">Profit</text>
+<rect x="802" y="167" width="98" height="7" rx="3" fill="#5279B9"/>
+<rect x="964" y="127" width="153" height="78" rx="10" fill="#1A3154" stroke="#33577E" stroke-width="1"/>
+<text x="977" y="154" fill="#C6D8F6" font-size="15" font-weight="600" font-family="Arial, Helvetica, sans-serif">Units Sold</text>
+<rect x="977" y="167" width="77" height="7" rx="3" fill="#FF8275"/>
+<rect x="614" y="222" width="307" height="183" rx="12" fill="#152A49" stroke="#2F4F78" stroke-width="1"/>
+<text x="633" y="249" fill="#D4E5FF" font-size="17" font-weight="600" font-family="Arial, Helvetica, sans-serif">Performance trend</text>
+<polyline points="638,370 685,343 737,352 792,309 850,325 894,280" fill="none" stroke="#73A2FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="939" y="222" width="178" height="183" rx="12" fill="#152A49" stroke="#2F4F78" stroke-width="1"/>
+<text x="953" y="249" fill="#D4E5FF" font-size="16" font-weight="600" font-family="Arial, Helvetica, sans-serif">Breakdown</text>
+<circle cx="1028" cy="328" r="52" fill="none" stroke="#29476A" stroke-width="24"/><circle cx="1028" cy="328" r="52" fill="none" stroke="#FE8175" stroke-width="24" stroke-dasharray="160 327" transform="rotate(-90 1028 328)"/><circle cx="1028" cy="328" r="52" fill="none" stroke="#729DFF" stroke-width="24" stroke-dasharray="96 327" stroke-dashoffset="-167" transform="rotate(-90 1028 328)"/>
+<text x="46" y="479" fill="#FF8275" font-size="15" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">CASE STUDY  /  02</text>
+<text x="1147" y="479" fill="#8FA4C4" font-size="14" font-weight="500" font-family="Arial, Helvetica, sans-serif" text-anchor="end">ILLUSTRATIVE • NOT ACTUAL REPORT DATA</text>
+</svg>
