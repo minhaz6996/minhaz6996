@@ -37,7 +37,26 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 > **Portfolio note:** The visuals above are illustrative case-study graphics, **not direct screenshots of the PBIX reports**. Project descriptions were prepared by inspecting the report definitions. No confidential data or actual KPI values have been published here.
 
-## 03 / Technical Toolkit
+## 03 / Featured SQL Case Study
+
+### Climate Change & Agriculture — PostgreSQL
+
+**Category:** Climate & Agricultural Data Analytics
+
+**Tools:** PostgreSQL, SQL, Data Quality Analysis
+
+**Project Focus:**
+- Climate and agricultural data exploration
+- Crop yield and temperature analysis
+- Rainfall and regional comparisons
+- SQL aggregation and data validation
+- Reproducible analytical queries
+
+[Explore the SQL Project →](https://github.com/minhaz6996/climate-agriculture-sql-analysis)
+
+---
+
+## 04 / Technical Toolkit
 
 | Area | Tools and capabilities |
 |:--|:--|
@@ -47,19 +66,19 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 | **Statistics & Research** | R, statistical methods, charts, research analysis |
 | **Communication** | Data visualization, reporting workflows, data storytelling |
 
-## 04 / Professional Experience
+## 05 / Professional Experience
 
 **Data Analyst — Quasem Foundation**  
 Business reporting, analytical work, and decision support.  
 *Detailed dates and measurable achievements will be added after verification.*
 
-## 05 / Upcoming Work
+## 06 / Upcoming Work
 
 - Document SQL and Excel projects with reproducible examples.
 - Add approved, anonymized Power BI report screenshots if sharing is authorized.
 - Publish R statistical analysis case studies.
 
-## 06 / Connect
+## 07 / Connect
 
 **GitHub:** [minhaz6996](https://github.com/minhaz6996)  
 **LinkedIn:** [Professional profile](https://www.linkedin.com/in/minhazul-alam-9a08b8263/)
