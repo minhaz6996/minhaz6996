@@ -7,57 +7,63 @@
 **Excel · Power BI · SQL · R · Data Visualization · Reporting**
 
 [![GitHub](https://img.shields.io/badge/GitHub-minhaz6996-24292f?style=for-the-badge&logo=github)](https://github.com/minhaz6996)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/minhazul-alam-9a08b8263/)
 
 </div>
 
-<img src="assets/overview.svg" alt="Portfolio focus areas: analysis, visualization, automation, and statistics" width="100%" />
+<img src="assets/overview.svg" alt="Analytics areas: analysis, visualization, automation, and statistics" width="100%" />
 
 ## 01 / About Me
 
-I am **Minhazul Alam**, a data analyst with an interest in turning data into practical business intelligence. My toolkit includes **Excel, Power BI, SQL, and R** for data cleaning, exploration, visualization, reporting, and statistical analysis.
+I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and R** to turn information into useful reports, dashboards, and analysis. My interests include business intelligence, performance monitoring, statistical research, and clear data storytelling.
 
-I enjoy creating dashboards and analyses that help people understand performance, recognize patterns, and make informed decisions.
+## 02 / Featured Power BI Case Studies
 
-## 02 / Technical Toolkit
+### 🏥 MEH Executive Overview — Healthcare Operations
+
+[![MEH Executive Overview case study](assets/meh-case-study.svg)](projects/meh-executive-overview/README.md)
+
+**Focus:** Hospital-level operational reporting across **OPD, refraction, and surgery-related KPIs**, with hospital/month filtering, comparison charts, and a summary matrix.  
+**Tools:** Power BI, report modeling, KPI design, filters, and visual reporting.  
+**[Explore the project →](projects/meh-executive-overview/README.md)**
+
+### 📊 Sales Performance Overview — Business Analytics
+
+[![Sales Performance Overview case study](assets/sales-case-study.svg)](projects/sales-performance-overview/README.md)
+
+**Focus:** Sales, profit, costs, units sold, and profit-margin analysis using breakdowns by **country, product, segment, and time**.  
+**Tools:** Power BI, KPI reporting, slicers, bar/line/donut visualizations.  
+**[Explore the project →](projects/sales-performance-overview/README.md)**
+
+> **Portfolio note:** The visuals above are illustrative case-study graphics, **not direct screenshots of the PBIX reports**. Project descriptions were prepared by inspecting the report definitions. No confidential data or actual KPI values have been published here.
+
+## 03 / Technical Toolkit
 
 | Area | Tools and capabilities |
 |:--|:--|
-| **Dashboards & BI** | Power BI, DAX, data visualization, KPI reporting |
-| **Data Analysis** | Excel, PivotTables, Power Query, exploratory analysis |
-| **Databases** | SQL, PostgreSQL, relational queries |
-| **Statistics & Research** | R, statistical analysis, data visualization |
-| **Reporting** | Data storytelling, recurring reports, performance insights |
-
-## 03 / Selected Work
-
-> Project links and screenshots will be added once their public repositories are confirmed. The items below describe portfolio areas, not claims of published repositories.
-
-| Portfolio area | What to showcase |
-|:--|:--|
-| **Power BI Dashboards** | Interactive reports, performance KPIs, DAX measures, and dashboard screenshots |
-| **SQL Analysis** | PostgreSQL queries for cleaning, joins, aggregation, and exploratory insights |
-| **Excel Analytics** | Interactive reporting, automated workflows, and analysis models |
-| **R Statistical Analysis** | Research-oriented plots, statistical methods, and interpretation |
+| **Business Intelligence** | Power BI, KPI reporting, dashboard design, DAX concepts |
+| **Analysis & Reporting** | Excel, PivotTables, Power Query, performance reporting |
+| **Data Queries** | SQL, PostgreSQL, joins, aggregations, exploratory queries |
+| **Statistics & Research** | R, statistical methods, charts, research analysis |
+| **Communication** | Data visualization, reporting workflows, data storytelling |
 
 ## 04 / Professional Experience
 
 **Data Analyst — Quasem Foundation**  
-Business data analysis, reporting, and decision support.
+Business reporting, analytical work, and decision support.  
+*Detailed dates and measurable achievements will be added after verification.*
 
-*Add verified dates, previous roles, responsibilities, and measurable achievements before publishing.*
+## 05 / Upcoming Work
 
-## 05 / Current Goals
+- Document SQL and Excel projects with reproducible examples.
+- Add approved, anonymized Power BI report screenshots if sharing is authorized.
+- Publish R statistical analysis case studies.
 
-- Build clear, practical, decision-ready analytics products.
-- Publish documented projects with reproducible methods.
-- Share dashboards, case studies, and analytical insights.
-
-## 06 / Let's Connect
+## 06 / Connect
 
 **GitHub:** [minhaz6996](https://github.com/minhaz6996)  
-**LinkedIn:** *Add your verified profile URL*  
-**Portfolio Website:** *Add when published*
+**LinkedIn:** [Professional profile](https://www.linkedin.com/in/minhazul-alam-9a08b8263/)
 
 ---
 
-<div align="center"><sub>Designed for GitHub profile README · All project links and metrics should be verified before publishing.</sub></div>
+<div align="center"><sub>Minhazul Alam · Data Analytics & Business Intelligence · Case studies reflect inspected report structure, not verified operational results.</sub></div>
