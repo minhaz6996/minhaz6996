@@ -58,7 +58,49 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 ---
 
-## 04 / Technical Toolkit
+## 04 / Featured Excel Case Studies
+
+### MTB PSP Performance — Healthcare Analytics
+
+![MTB PSP Excel Dashboard](https://raw.githubusercontent.com/minhaz6996/mtb-psp-performance-excel-dashboard/main/assets/mtb-psp-excel.svg)
+
+**Category:** Healthcare Operations & Performance Reporting
+
+**Tools:** Microsoft Excel, KPI Reporting, Data Analysis
+
+**Project Focus:**
+- Eye camp performance monitoring
+- OPD and surgical activity reporting
+- Hospital-wise target vs achievement
+- Date-wise and camp-wise analysis
+- Executive dashboard and KPI reporting
+
+[Explore the Excel Project →](https://github.com/minhaz6996/mtb-psp-performance-excel-dashboard)
+
+---
+
+### Target vs Achievement — DiN Donor Programme
+
+![DiN Donor Excel Dashboard](https://raw.githubusercontent.com/minhaz6996/target-vs-achievement-excel-dashboard/main/assets/target-vs-achievement-excel.svg)
+
+**Donor:** DiN (Dak International Network)
+
+**Reporting Context:** Quasem Foundation
+
+**Tools:** Microsoft Excel, Data Consolidation, KPI Monitoring
+
+**Project Focus:**
+- Donor programme performance monitoring
+- Monthly and annual target vs achievement
+- Cataract surgery and reading glasses reporting
+- Gender-wise performance analysis
+- Executive dashboard and consolidated reporting
+
+[Explore the Excel Project →](https://github.com/minhaz6996/target-vs-achievement-excel-dashboard)
+
+---
+
+## 05 / Technical Toolkit
 
 | Area | Tools and capabilities |
 |:--|:--|
@@ -68,19 +110,19 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 | **Statistics & Research** | R, statistical methods, charts, research analysis |
 | **Communication** | Data visualization, reporting workflows, data storytelling |
 
-## 05 / Professional Experience
+## 06 / Professional Experience
 
 **Data Analyst — Quasem Foundation**  
 Business reporting, analytical work, and decision support.  
 *Detailed dates and measurable achievements will be added after verification.*
 
-## 06 / Upcoming Work
+## 07 / Upcoming Work
 
 - Document SQL and Excel projects with reproducible examples.
 - Add approved, anonymized Power BI report screenshots if sharing is authorized.
 - Publish R statistical analysis case studies.
 
-## 07 / Connect
+## 08 / Connect
 
 **GitHub:** [minhaz6996](https://github.com/minhaz6996)  
 **LinkedIn:** [Professional profile](https://www.linkedin.com/in/minhazul-alam-9a08b8263/)
