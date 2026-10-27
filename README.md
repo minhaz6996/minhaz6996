@@ -41,6 +41,8 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 ### Climate Change & Agriculture — PostgreSQL
 
+![Climate & Agriculture SQL Analysis](assets/climate-agriculture-sql.svg)
+
 **Category:** Climate & Agricultural Data Analytics
 
 **Tools:** PostgreSQL, SQL, Data Quality Analysis
