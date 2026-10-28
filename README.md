@@ -123,6 +123,30 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 ---
 
+### Dhaka Rainfall Forecasting — R Time Series Analysis
+
+[![Dhaka Rainfall Forecasting](https://raw.githubusercontent.com/minhaz6996/dhaka-rainfall-r-forecasting/main/assets/banner.svg)](https://github.com/minhaz6996/dhaka-rainfall-r-forecasting)
+
+**Research & Manuscript:** Minhazul Alam
+
+**Tools:** R Programming, ARIMA, ETS, STL, Time Series Analysis, Seasonal Adjustment
+
+**Research Focus:**
+- Historical rainfall analysis (1953–2016)
+- Monthly rainfall seasonality and trends
+- ARIMA and ETS forecasting methods
+- Seasonal decomposition using STL
+- Forecast accuracy evaluation (RMSE and MAE)
+- Statistical visualization and model comparison
+
+**Dataset:** 768 monthly observations covering 64 years.
+
+**Analysis Note:** The forecasting R script was reconstructed from the research methodology. Independent benchmark results were verified in Python; R execution remains pending.
+
+[Explore the R Forecasting Project →](https://github.com/minhaz6996/dhaka-rainfall-r-forecasting)
+
+---
+
 ## 06 / Technical Toolkit
 
 | Area | Tools and capabilities |
@@ -143,7 +167,7 @@ Business reporting, analytical work, and decision support.
 
 - Document SQL and Excel projects with reproducible examples.
 - Add approved, anonymized Power BI report screenshots if sharing is authorized.
-- Validate the published R analysis script and develop the Dhaka rainfall forecasting project.
+- Validate both R research scripts in a local R environment and expand reproducible statistical analysis projects.
 
 ## 09 / Connect
 
