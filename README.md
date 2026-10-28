@@ -37,6 +37,8 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 > **Portfolio note:** The visuals above are illustrative case-study graphics, **not direct screenshots of the PBIX reports**. Project descriptions were prepared by inspecting the report definitions. No confidential data or actual KPI values have been published here.
 
+
+
 ## 03 / Featured SQL Case Study
 
 ### Climate Change & Agriculture — PostgreSQL
@@ -54,6 +56,16 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 - SQL aggregation and data validation
 - Reproducible analytical queries
 
+**PostgreSQL 17 — Verified Analysis**
+
+- Successfully analyzed 199 observations across 35 years.
+- Validated data completeness and checked for duplicates.
+- Examined 10 countries and 10 crop types.
+- Verified Pearson correlation between temperature and crop yield (r = 0.240).
+- Tested SQL aggregations, CTEs, and LAG() window functions.
+- Created a reusable analytical summary view containing 196 groups and covering all 199 observations.
+
+**Status:** Locally tested using PostgreSQL 17 and pgAdmin 4.
 [Explore the SQL Project →](https://github.com/minhaz6996/climate-agriculture-sql-analysis)
 
 ---
