@@ -141,7 +141,7 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 **Dataset:** 768 monthly observations covering 64 years.
 
-**Analysis Note:** The forecasting R script was reconstructed from the research methodology. Independent benchmark results were verified in Python; R execution remains pending.
+**Analysis Note:** The original R code was unavailable, so the forecasting workflow was reconstructed from the research methodology and successfully executed in RStudio using R 4.4.2. Five forecasting approaches were evaluated on a 60-month holdout. Independent Python benchmarks were also performed, and residual diagnostic limitations are documented in the project.
 
 [Explore the R Forecasting Project →](https://github.com/minhaz6996/dhaka-rainfall-r-forecasting)
 
