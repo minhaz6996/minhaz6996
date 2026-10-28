@@ -143,7 +143,7 @@ Business reporting, analytical work, and decision support.
 
 - Document SQL and Excel projects with reproducible examples.
 - Add approved, anonymized Power BI report screenshots if sharing is authorized.
-- Publish R statistical analysis case studies.
+- Validate the published R analysis script and develop the Dhaka rainfall forecasting project.
 
 ## 09 / Connect
 
