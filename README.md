@@ -167,7 +167,7 @@ Business reporting, analytical work, and decision support.
 
 - Document SQL and Excel projects with reproducible examples.
 - Add approved, anonymized Power BI report screenshots if sharing is authorized.
-- Validate both R research scripts in a local R environment and expand reproducible statistical analysis projects.
+- Extend the validated R research projects with additional robustness checks, model diagnostics, and reproducible documentation.
 
 ## 09 / Connect
 
