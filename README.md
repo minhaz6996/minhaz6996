@@ -100,7 +100,30 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 ---
 
-## 05 / Technical Toolkit
+## 05 / Featured R Statistical Research
+
+### Climate Change & Crop Yield — R Statistical Analysis
+
+[![R Statistical Analysis](https://raw.githubusercontent.com/minhaz6996/climate-crop-yield-r-analysis/main/assets/banner.svg)](https://github.com/minhaz6996/climate-crop-yield-r-analysis)
+
+**Research & Statistical Analysis:** Minhazul Alam
+
+**Tools:** R Programming, Statistical Modelling, Regression, Data Visualization
+
+**Research Focus:**
+- Climate indicators and agricultural inputs
+- Crop yield variation and temperature analysis
+- Correlation analysis and visualization
+- Four OLS regression models
+- Nonlinear relationships and model comparison
+
+**Key Result:** Extended model R² = 0.2084, indicating approximately 20.84% explained variation in the fitted sample.
+
+[Explore the R Project →](https://github.com/minhaz6996/climate-crop-yield-r-analysis)
+
+---
+
+## 06 / Technical Toolkit
 
 | Area | Tools and capabilities |
 |:--|:--|
@@ -110,19 +133,19 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 | **Statistics & Research** | R, statistical methods, charts, research analysis |
 | **Communication** | Data visualization, reporting workflows, data storytelling |
 
-## 06 / Professional Experience
+## 07 / Professional Experience
 
 **Data Analyst — Quasem Foundation**  
 Business reporting, analytical work, and decision support.  
 *Detailed dates and measurable achievements will be added after verification.*
 
-## 07 / Upcoming Work
+## 08 / Upcoming Work
 
 - Document SQL and Excel projects with reproducible examples.
 - Add approved, anonymized Power BI report screenshots if sharing is authorized.
 - Publish R statistical analysis case studies.
 
-## 08 / Connect
+## 09 / Connect
 
 **GitHub:** [minhaz6996](https://github.com/minhaz6996)  
 **LinkedIn:** [Professional profile](https://www.linkedin.com/in/minhazul-alam-9a08b8263/)
