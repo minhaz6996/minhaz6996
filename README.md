@@ -188,4 +188,4 @@ Business reporting, analytical work, and decision support.
 
 ---
 
-<div align="center"><sub>Minhazul Alam · Data Analytics & Business Intelligence · Case studies reflect inspected report structure, not verified operational results.</sub></div>
+<div align="center"><sub>Minhazul Alam · Data Analytics & Business Intelligence · Portfolio Note: Project banners are illustrative. SQL, Excel, and R case studies include reviewed analytical results where stated, with project-specific limitations documented in their repositories. Power BI case-study visuals illustrate inspected report structures rather than independently verified operational results. Original data is not shared without authorization.</sub></div>
