@@ -173,7 +173,6 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 **Data Analyst — Quasem Foundation**  
 Business reporting, analytical work, and decision support.  
-*Detailed dates and measurable achievements will be added after verification.*
 
 ## 08 / Upcoming Work
 
