@@ -82,7 +82,7 @@ I am **Minhazul Alam**, a data analyst working with **Power BI, Excel, SQL, and 
 
 **Project Focus:**
 - Eye camp performance monitoring
-- OPD and surgical activity reporting
+- Service contacts and surgical activity reporting
 - Hospital-wise target vs achievement
 - Date-wise and camp-wise analysis
 - Executive dashboard and KPI reporting
